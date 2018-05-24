@@ -1,3 +1,5 @@
+**This repository fork nodge/yii-eauth with updated dependencies packages**
+
 Yii EAuth extension
 ===================
 

@@ -1,5 +1,5 @@
 {
-    "name": "nodge/yii-eauth",
+    "name": "krupni/yii-eauth",
     "description": "EAuth extension allows to authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers.",
     "minimum-stability": "stable",
     "authors": [
@@ -13,8 +13,8 @@
     "license": "BSD 2-Clause License",
     "require": {
         "php": ">=5.3.0",
-        "itmages/yii-eoauth":"@stable",
-        "itmages/lightopenid":"@stable"
+        "krupni/yii-eoauth":"@stable",
+        "krupni/lightopenid":"@stable"
     },
     "autoload": {
         "classmap": [
