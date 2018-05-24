@@ -1,7 +1,7 @@
 {
     "name": "krupni/yii-eauth",
     "description": "EAuth extension allows to authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers.",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Maxim Zemskov",
