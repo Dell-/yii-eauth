@@ -13,8 +13,8 @@
     "license": "BSD 2-Clause License",
     "require": {
         "php": ">=5.3.0",
-        "krupni/yii-eoauth":"@stable",
-        "krupni/lightopenid":"@stable"
+        "krupni/yii-eoauth":"@master",
+        "krupni/lightopenid":"@master"
     },
     "autoload": {
         "classmap": [
