@@ -1,5 +1,9 @@
 **This repository fork nodge/yii-eauth with updated dependencies packages**
 
+**Install**
+
+`composer require krupni/yii-eauth`
+
 Yii EAuth extension
 ===================
 
